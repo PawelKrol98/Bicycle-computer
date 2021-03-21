@@ -26,5 +26,6 @@ Using tact switches, we can change computer operating mode. <br />
 
 
 # Port connections
-![obraz](https://user-images.githubusercontent.com/48327929/111915694-d5583080-8a77-11eb-87b6-3787ad3b4a30.png)
+![obraz](https://user-images.githubusercontent.com/48327929/111916078-88755980-8a79-11eb-90f4-4b8d86091182.png)
+
 
