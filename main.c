@@ -76,12 +76,12 @@ __________________________________________________________________________
 	type	X	X  in  in  in  out  out out out out out out X	X
 __________________________________________________________________________	
 	key: 
-		kont =kontaktron
+		kont =kontaktron (reed switch)
 		tac = tact switch
 		buz = buzzer
-		RS, E, D4, D5, D6, D7 = wyjścia do wyświetlacza LCD
-		X = brak
-		CONN = podłączenia
+		RS, E, D4, D5, D6, D7 = wyjścia do wyświetlacza LCD (LCD screen outs)
+		X = brak (nothing connected)
+		CONN = podłączenia (connections)
 */
 
 	
