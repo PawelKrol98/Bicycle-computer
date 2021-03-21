@@ -25,3 +25,6 @@ Buzzer is used to signal computer startup and travelled distance reset. <br />
 Using tact switches, we can change computer operating mode. <br />
 
 
+# Port connections
+![obraz](https://user-images.githubusercontent.com/48327929/111915694-d5583080-8a77-11eb-87b6-3787ad3b4a30.png)
+
