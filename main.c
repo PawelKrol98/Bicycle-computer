@@ -394,7 +394,7 @@ ISR(INT0_vect)
 	magnes_touch++;
 	magnes_touch_vel++;
 	timer_enable = true;
-	_delay_ms(100);
+	_delay_ms(100);				// very bad idea
 	
 	timer += 0.1;									// kompensacja opóźnienia spowodowana funkcją _delay_ms
 	if(timer_enable)
