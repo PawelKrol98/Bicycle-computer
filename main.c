@@ -71,9 +71,9 @@ int main(void)
 __________________________________________________________________________
 						PORTD			  |			PORTB
 	PIN(P)	0	1	2	3	4	5	6	7	8	9	10	11	12	13
-	ARD    PD0     PD1 PD2 PD3 PD4 PD5 PD6 PD7 PB0 PB1     PB2     PB3     PB4     PB5
-	CONN	X	X kont tac tac buz  RS  E   D4  D5	D6	D7	X	X
-	type	X	X  in  in  in  out  out out out out out out X	X
+	ARD    PD0 	PD1 	PD2 	PD3 	PD4 	PD5 	PD6 	PD7 	PB0 	PB1     PB2     PB3     PB4     PB5
+	CONN	X	X 	kont 	tac 	tac 	buz  	RS  	E   	D4  	D5	D6	D7	X	X
+	type	X	X  	in  	in  	in  	out  	out 	out 	out 	out 	out	out 	X	X
 __________________________________________________________________________	
 	key: 
 		kont =kontaktron (reed switch)
