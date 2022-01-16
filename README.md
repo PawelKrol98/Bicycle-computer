@@ -9,7 +9,7 @@ It presents fully functional bicycle computer with basic functionality (below).
 * Distance measurer
 
 # Components
-* Arduino UNO
+* Arduino UNO 328p
 * LCD screen 2x16
 * Potentiometer 5k Ohm
 * Reed switch & magnet
@@ -26,5 +26,7 @@ Using tact switches, we can change computer operating mode. <br />
 
 
 # Port connections
-![obraz](https://user-images.githubusercontent.com/48327929/111915694-d5583080-8a77-11eb-87b6-3787ad3b4a30.png)
+![obraz](https://user-images.githubusercontent.com/48327929/111916122-b9558e80-8a79-11eb-945b-11c7ec184362.png)
+
+
 
